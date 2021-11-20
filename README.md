@@ -1,6 +1,6 @@
 ## Hi, I'm Kadi 👋
 
-Principal Engineer at [Formidable](https://formidable.com/), **@kadikraman** on [Twitter](https://twitter.com/kadikraman).
+Principal Engineer at [Formidable](https://formidable.com/).
 
 I build things in JavaScript - mostly with React Native and GraphQL! 💚
 
