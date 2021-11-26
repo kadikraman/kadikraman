@@ -2,7 +2,7 @@
 
 Principal Engineer at [Formidable](https://formidable.com/).
 
-I build things in JavaScript (well... TypeScript these days!) - mostly with React Native and GraphQL! 💚
+I build things in JavaScript (or TypeScript these days) - mostly with React Native and GraphQL! 💚
 
 ### ✨ Highlights ✨
 - 📖 Course: [Intro to React Native](https://frontendmasters.com/courses/react-native-v2/) on [Frontend Masters](https://frontendmasters.com/)
