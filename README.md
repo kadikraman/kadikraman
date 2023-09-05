@@ -1,8 +1,8 @@
 ## Hi, I'm Kadi 👋
 
-Principal Engineer at [Formidable](https://formidable.com/).
+Software Developer at [Expo](https://expo.dev/).
 
-I build things in JavaScript (or TypeScript these days) - mostly with React Native and GraphQL! 💚
+I build things to help you build things with React Native! 💚
 
 ### ✨ Highlights ✨
 - 📖 Course: [Intro to React Native](https://frontendmasters.com/courses/react-native-v2/) on [Frontend Masters](https://frontendmasters.com/)
