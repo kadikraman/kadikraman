@@ -4,7 +4,10 @@ Software Developer at [Expo](https://expo.dev/).
 
 I build things to help you build things with React Native! 💚
 
-### ✨ Highlights ✨
+### ✨ Latest ✨
+- 🎤 Podcast: [EAS, Expo Prebuild & SDK 50 with Simon Grimm](https://www.youtube.com/watch?v=pPQNDHCOoAE) on [Rocket Ship](https://podcast.galaxies.dev/episodes/025-eas-expo-prebuild-sdk-50-with-kadi-kraman)
+
+### Highlights
 - 📖 Course: [Intro to React Native](https://frontendmasters.com/courses/react-native-v2/) on [Frontend Masters](https://frontendmasters.com/)
 - 📖 Course: [Intermediate React Native](https://frontendmasters.com/courses/intermediate-react-native/) on [Frontend Masters](https://frontendmasters.com/)
 - 📖 Course: [Build a Customizable Animated Skeleton Loader in React Native](https://egghead.io/courses/building-a-customizable-animated-skeleton-loader-in-react-native-51f6231d) on [Egghead](https://egghead.io/)
