@@ -5,6 +5,7 @@ Software Developer at [Expo](https://expo.dev/).
 I build things to help you build things with React Native! 💚
 
 ### ✨ Latest ✨
+- 📖 Course: [Build and Deploy React Native Apps with Expo EAS](https://egghead.io/courses/build-and-deploy-react-native-apps-with-expo-eas-85ab521e) on [Egghead](https://egghead.io/)
 - 🎤 Podcast: [EAS, Expo Prebuild & SDK 50 with Simon Grimm](https://www.youtube.com/watch?v=pPQNDHCOoAE) on [Rocket Ship](https://podcast.galaxies.dev/episodes/025-eas-expo-prebuild-sdk-50-with-kadi-kraman)
 
 ### Highlights
