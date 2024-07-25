@@ -6,7 +6,7 @@ I build things to help you build things with React Native! 💚
 
 ### ✨ Latest ✨
 - 👩‍💻 Talk: [App.js 2024 (Getting the most out of Expo Development Builds)](https://www.youtube.com/watch?v=7J8LRpja9_o) on [YouTube](https://www.youtube.com/watch?v=MdCn0Iq0ucU&t=8050s)
-- 👩‍💻 Talk: [React Conf 2024 Day 2 Keynote (What is Expo?)](https://www.youtube.com/watch?v=0ckOUBiuxVY&t=3890s) on [YouTube](https://www.youtube.com/watch?v=0ckOUBiuxVY&t=3890s)
+- 👩‍💻 Talk: [React Conf 2024 Day 2 Keynote (What is Expo?)](https://www.youtube.com/watch?v=Q5SMmKb7qVI&t=1582s) on [YouTube](https://www.youtube.com/watch?v=Q5SMmKb7qVI&t=1582s)
 - 📝 Blog: [12 Tips for Setting up Your Next Expo Project](https://expo.dev/blog/12-tips-for-setting-up-your-next-expo-project) on [Expo](https://expo.dev/blog/12-tips-for-setting-up-your-next-expo-project)
 - 📖 Course: [Build and Deploy React Native Apps with Expo EAS](https://egghead.io/courses/build-and-deploy-react-native-apps-with-expo-eas-85ab521e) on [Egghead](https://egghead.io/)
 - 🎤 Podcast: [EAS, Expo Prebuild & SDK 50 with Simon Grimm](https://www.youtube.com/watch?v=pPQNDHCOoAE) on [Rocket Ship](https://podcast.galaxies.dev/episodes/025-eas-expo-prebuild-sdk-50-with-kadi-kraman)
