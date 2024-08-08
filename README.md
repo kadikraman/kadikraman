@@ -5,13 +5,15 @@ Software Developer at [Expo](https://expo.dev/).
 I build things to help you build things with React Native! 💚
 
 ### ✨ Latest ✨
+- 🎥 Livestream: [What React devs need to know about React Native](https://www.youtube.com/live/iB7sc-fzpWw) on [YouTube](https://www.youtube.com/@ExpoDevelopers)
+- 📝 Blog: [From Web to Native with React](https://expo.dev/blog/from-web-to-native-with-react) on [Expo](https://expo.dev)
 - 👩‍💻 Talk: [App.js 2024 (Getting the most out of Expo Development Builds)](https://www.youtube.com/watch?v=7J8LRpja9_o) on [YouTube](https://www.youtube.com/watch?v=MdCn0Iq0ucU&t=8050s)
 - 👩‍💻 Talk: [React Conf 2024 Day 2 Keynote (What is Expo?)](https://www.youtube.com/watch?v=Q5SMmKb7qVI&t=1582s) on [YouTube](https://www.youtube.com/watch?v=Q5SMmKb7qVI&t=1582s)
-- 📝 Blog: [12 Tips for Setting up Your Next Expo Project](https://expo.dev/blog/12-tips-for-setting-up-your-next-expo-project) on [Expo](https://expo.dev/blog/12-tips-for-setting-up-your-next-expo-project)
+- 📝 Blog: [12 Tips for Setting up Your Next Expo Project](https://expo.dev/blog/12-tips-for-setting-up-your-next-expo-project) on [Expo](https://expo.dev)
 - 📖 Course: [Build and Deploy React Native Apps with Expo EAS](https://egghead.io/courses/build-and-deploy-react-native-apps-with-expo-eas-85ab521e) on [Egghead](https://egghead.io/)
-- 🎤 Podcast: [EAS, Expo Prebuild & SDK 50 with Simon Grimm](https://www.youtube.com/watch?v=pPQNDHCOoAE) on [Rocket Ship](https://podcast.galaxies.dev/episodes/025-eas-expo-prebuild-sdk-50-with-kadi-kraman)
 
-### Highlights
+### Others
+- 🎤 Podcast: [EAS, Expo Prebuild & SDK 50 with Simon Grimm](https://www.youtube.com/watch?v=pPQNDHCOoAE) on [Rocket Ship](https://podcast.galaxies.dev/episodes/025-eas-expo-prebuild-sdk-50-with-kadi-kraman)
 - 📖 Course: [Intro to React Native](https://frontendmasters.com/courses/react-native-v2/) on [Frontend Masters](https://frontendmasters.com/)
 - 📖 Course: [Intermediate React Native](https://frontendmasters.com/courses/intermediate-react-native/) on [Frontend Masters](https://frontendmasters.com/)
 - 📖 Course: [Build a Customizable Animated Skeleton Loader in React Native](https://egghead.io/courses/building-a-customizable-animated-skeleton-loader-in-react-native-51f6231d) on [Egghead](https://egghead.io/)
