@@ -4,6 +4,10 @@ Software Developer at [Expo](https://expo.dev/).
 
 I build things to help you build things with React Native! 💚
 
+🧑‍🎓 Looking to learn React Native? Here are the materials for my Intro and Intermediate React Native courses from [ Frontend Masters](https://frontendmasters.com/):
+- [Intro to React Native](https://kadikraman.github.io/react-native-v3-course/)
+- [Intermediate React Native](https://kadikraman.github.io/intermediate-react-native-v2-course/)
+
 ### ✨ Latest ✨
 - 🎥 Livestream: [What React devs need to know about React Native](https://www.youtube.com/live/iB7sc-fzpWw) on [YouTube](https://www.youtube.com/@ExpoDevelopers)
 - 📝 Blog: [From Web to Native with React](https://expo.dev/blog/from-web-to-native-with-react) on [Expo](https://expo.dev)
