@@ -4,9 +4,11 @@ Software Developer at [Expo](https://expo.dev/).
 
 I build things to help you build things with React Native! 💚
 
-🧑‍🎓 Looking to learn React Native? Here are the materials for my Intro and Intermediate React Native courses from [ Frontend Masters](https://frontendmasters.com/):
-- [Intro to React Native](https://kadikraman.github.io/react-native-v3-course/)
-- [Intermediate React Native](https://kadikraman.github.io/intermediate-react-native-v2-course/)
+🧑‍🎓 Looking to learn React Native? Find my new React Native courses on  [Frontend Masters](https://frontendmasters.com/):
+- [Intro to React Native](https://frontendmasters.com/courses/react-native-v3/)
+- [Intermediate React Native](https://frontendmasters.com/courses/intermediate-react-native-v2/)
+
+The course materials are also available sparately on GitHub pages: [intro docs](https://kadikraman.github.io/react-native-v3-course/), [intermediate docs](https://kadikraman.github.io/intermediate-react-native-v2-course/).
 
 ### ✨ Latest ✨
 - 🎥 Livestream: [What React devs need to know about React Native](https://www.youtube.com/live/iB7sc-fzpWw) on [YouTube](https://www.youtube.com/@ExpoDevelopers)
@@ -18,8 +20,6 @@ I build things to help you build things with React Native! 💚
 
 ### Others
 - 🎤 Podcast: [EAS, Expo Prebuild & SDK 50 with Simon Grimm](https://www.youtube.com/watch?v=pPQNDHCOoAE) on [Rocket Ship](https://podcast.galaxies.dev/episodes/025-eas-expo-prebuild-sdk-50-with-kadi-kraman)
-- 📖 Course: [Intro to React Native](https://frontendmasters.com/courses/react-native-v2/) on [Frontend Masters](https://frontendmasters.com/)
-- 📖 Course: [Intermediate React Native](https://frontendmasters.com/courses/intermediate-react-native/) on [Frontend Masters](https://frontendmasters.com/)
 - 📖 Course: [Build a Customizable Animated Skeleton Loader in React Native](https://egghead.io/courses/building-a-customizable-animated-skeleton-loader-in-react-native-51f6231d) on [Egghead](https://egghead.io/)
 - 📖 Course: [Build an Offline Capable News App with React Native, GraphQL and TypeScript](https://egghead.io/courses/build-a-news-app-with-react-native-graphql-and-typescript-08814691)
 - 🎤 Podcast: [How I Became a Software Engineer](https://devjourney.info/Guests/170-KadiKraman.html) on [Dev Journey](https://devjourney.info/)
