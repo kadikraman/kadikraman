@@ -8,6 +8,8 @@ I build things to help you build things with React Native! 💚
 - [Intro to React Native](https://frontendmasters.com/courses/react-native-v3/)
 - [Intermediate React Native](https://frontendmasters.com/courses/intermediate-react-native-v2/)
 
+Here's a [discount code](https://frontendmasters.com/join/?code=KRAMAN&utm_source=teacher-discount&utm_medium=social&utm_campaign=kraman).
+
 The course materials are also available sparately on GitHub pages: [intro docs](https://kadikraman.github.io/react-native-v3-course/), [intermediate docs](https://kadikraman.github.io/intermediate-react-native-v2-course/).
 
 ### ✨ Latest ✨
