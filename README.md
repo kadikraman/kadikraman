@@ -11,6 +11,7 @@ If you're new to Frontend Masters, here's a [discount code](https://frontendmast
 The text-based course materials are available for everyone: [intro docs](https://kadikraman.github.io/react-native-v3-course/), [intermediate docs](https://kadikraman.github.io/intermediate-react-native-v2-course/).
 
 ### 🛫 2025 conferences
+- 🇫🇷 [React Native Connection](https://reactnativeconnection.io/) (2. April)
 - 🇵🇱 [App.js](https://appjs.co/) (28–30 May)
 - 🇪🇸 [React Alicante](https://reactalicante.es/) (2-4 October)
 
