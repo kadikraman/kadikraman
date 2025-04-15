@@ -3,8 +3,8 @@
 Software Developer at [Expo](https://expo.dev/). I build things to help you build things with React Native! 💚
 
 🧑‍🎓 Looking to learn React Native? Here are my latest React Native courses at [Frontend Masters](https://frontendmasters.com/):
-- [Intro to React Native](https://frontendmasters.com/courses/react-native-v3/)
-- [Intermediate React Native](https://frontendmasters.com/courses/intermediate-react-native-v2/)
+- [Intro to React Native](https://frontendmasters.com/courses/react-native-v3/?utm_source=kraman&utm_medium=social&utm_campaign=react-native-v3)
+- [Intermediate React Native](https://frontendmasters.com/courses/intermediate-react-native-v2?utm_source=kraman&utm_medium=social&utm_campaign=intermediate-react-native-v2)
 
 If you're new to **Frontend Masters**, here's a [discount code](https://frontendmasters.com/teachers/kadi-kraman/?code=kraman&utm_source=kraman&utm_medium=social&utm_campaign=teacher_coupon) for **$10 off your first month**.
 
