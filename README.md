@@ -6,12 +6,12 @@ Software Developer at [Expo](https://expo.dev/). I build things to help you buil
 - [Intro to React Native](https://frontendmasters.com/courses/react-native-v3/)
 - [Intermediate React Native](https://frontendmasters.com/courses/intermediate-react-native-v2/)
 
-If you're new to Frontend Masters, here's a [discount code](https://frontendmasters.com/join/?code=KRAMAN&utm_source=teacher-discount&utm_medium=social&utm_campaign=kraman).
+If you're new to **Frontend Masters**, here's a [discount code](https://frontendmasters.com/teachers/kadi-kraman/?code=kraman&utm_source=kraman&utm_medium=social&utm_campaign=teacher_coupon) for **$10 off your first month**.
 
 The text-based course materials are available for everyone: [intro docs](https://kadikraman.github.io/react-native-v3-course/), [intermediate docs](https://kadikraman.github.io/intermediate-react-native-v2-course/).
 
 ### 🛫 2025 conferences
-- 🇫🇷 [React Native Connection](https://reactnativeconnection.io/) (April 2) - ✅
+- 🇫🇷 [React Native Connection](https://reactnativeconnection.io/) (April 2) ✅
 - 🇵🇱 [App.js](https://appjs.co/) (May 28–30)
 - 🇪🇸 [React Alicante](https://reactalicante.es/) (October 2-4)
 - 🇬🇧 [React Advanced](https://reactadvanced.com/) (October 25)
