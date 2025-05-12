@@ -14,7 +14,6 @@ The text-based course materials are available for everyone: [intro docs](https:/
 - 🇫🇷 [React Native Connection](https://reactnativeconnection.io/) (April 2) ✅
 - 🇵🇱 [App.js](https://appjs.co/) (May 28–30)
 - 🇪🇸 [React Alicante](https://reactalicante.es/) (October 2-4)
-- 🇬🇧 [React Advanced](https://reactadvanced.com/) (October 25)
 
 ### ✨ Highlights ✨
 - 📝 Blog: [From Web to Native with React](https://expo.dev/blog/from-web-to-native-with-react) on [Expo](https://expo.dev)
