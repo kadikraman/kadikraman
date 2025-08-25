@@ -12,7 +12,8 @@ The text-based course materials are available for everyone: [intro docs](https:/
 
 ### 🛫 2025 conferences
 - 🇫🇷 [React Native Connection](https://reactnativeconnection.io/) (April 2) ✅
-- 🇵🇱 [App.js](https://appjs.co/) (May 28–30)
+- 🇵🇱 [App.js](https://appjs.co/) (May 28–30) ✅
+- 🇵🇱 [React Universe](https://www.reactuniverseconf.com/) (September 2–4)
 - 🇪🇸 [React Alicante](https://reactalicante.es/) (October 2-4)
 
 ### ✨ Highlights ✨
