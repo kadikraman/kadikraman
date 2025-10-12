@@ -18,6 +18,8 @@ The text-based course materials are available for everyone: [intro docs](https:/
 - 🇬🇧 [React Native London Conf](https://www.reactnativelondon.co.uk/2025) (November 13-14)
 
 ### ✨ Highlights ✨
+- 👩‍💻 Tutorial Series: [Expo Router](https://www.youtube.com/playlist?list=PLsXDmrmFV_AT17JDf-otXSNE_eH7s0uDD) on [YouTube](https://www.youtube.com/playlist?list=PLsXDmrmFV_AT17JDf-otXSNE_eH7s0uDD)
+- 📝 Blog: [How to organize Expo app folder structure for clarity and scalability](https://expo.dev/blog/expo-app-folder-structure-best-practices) on [Expo](https://expo.dev)
 - 📝 Blog: [From Web to Native with React](https://expo.dev/blog/from-web-to-native-with-react) on [Expo](https://expo.dev)
 - 👩‍💻 Talk: [App.js 2024 (Getting the most out of Expo Development Builds)](https://www.youtube.com/watch?v=7J8LRpja9_o) on [YouTube](https://www.youtube.com/watch?v=MdCn0Iq0ucU&t=8050s)
 - 👩‍💻 Talk: [React Conf 2024 Day 2 Keynote (What is Expo?)](https://www.youtube.com/watch?v=Q5SMmKb7qVI&t=1582s) on [YouTube](https://www.youtube.com/watch?v=Q5SMmKb7qVI&t=1582s)
