@@ -10,12 +10,18 @@ If you're new to **Frontend Masters**, here's a [discount code](https://frontend
 
 The text-based course materials are available for everyone: [intro docs](https://kadikraman.github.io/react-native-v3-course/), [intermediate docs](https://kadikraman.github.io/intermediate-react-native-v2-course/).
 
-### 🛫 2025 conferences
+### 🛫 2026 conferences
+- 🇳🇱 [React Summit](https://reactsummit.com/) (June 12) 
+- 🇵🇱 [App.js](https://appjs.co/) (May 27-29) 
+
+<details>
+  <summary>🛫 2025 conferences</summary>
 - 🇫🇷 [React Native Connection](https://reactnativeconnection.io/) (April 2) ✅
 - 🇵🇱 [App.js](https://appjs.co/) (May 28–30) ✅
 - 🇵🇱 [React Universe](https://www.reactuniverseconf.com/) (September 2–4) ✅
 - 🇪🇸 [React Alicante](https://reactalicante.es/) (October 2-4) ✅
 - 🇬🇧 [React Native London Conf](https://www.reactnativelondon.co.uk/2025) (November 13-14) ✅
+</details>
 
 ### ✨ Highlights ✨
 - 👩‍💻 Tutorial Series: [Expo Router](https://www.youtube.com/playlist?list=PLsXDmrmFV_AT17JDf-otXSNE_eH7s0uDD) on [YouTube](https://www.youtube.com/playlist?list=PLsXDmrmFV_AT17JDf-otXSNE_eH7s0uDD)
