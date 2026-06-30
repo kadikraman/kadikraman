@@ -11,17 +11,19 @@ If you're new to **Frontend Masters**, here's a [discount code](https://frontend
 The text-based course materials are available for everyone: [intro docs](https://kadikraman.github.io/react-native-v3-course/), [intermediate docs](https://kadikraman.github.io/intermediate-react-native-v2-course/).
 
 ### 🛫 2026 conferences
-- 🇵🇱 [App.js](https://appjs.co/) (May 27-29)
-- 🇳🇱 [React Summit](https://reactsummit.com/) (June 12) 
+- 🇵🇱 [App.js](https://appjs.co/) (May 27-29) ✅
+- 🇳🇱 [React Summit](https://reactsummit.com/) (June 12) ✅
+- 🇺🇸 [Chain React](https://chainreactconf.com/) (July 30-31)
 - 🇩🇪 [reactCon](https://www.nextappcon.com/reactcon) (Oct 7-8)
 
 <details>
   <summary>🛫 2025 conferences</summary>
-- 🇫🇷 [React Native Connection](https://reactnativeconnection.io/) (April 2) ✅
-- 🇵🇱 [App.js](https://appjs.co/) (May 28–30) ✅
-- 🇵🇱 [React Universe](https://www.reactuniverseconf.com/) (September 2–4) ✅
-- 🇪🇸 [React Alicante](https://reactalicante.es/) (October 2-4) ✅
-- 🇬🇧 [React Native London Conf](https://www.reactnativelondon.co.uk/2025) (November 13-14) ✅
+
+- 🇫🇷 [React Native Connection](https://reactnativeconnection.io/) (April 2)
+- 🇵🇱 [App.js](https://appjs.co/) (May 28–30)
+- 🇵🇱 [React Universe](https://www.reactuniverseconf.com/) (September 2–4)
+- 🇪🇸 [React Alicante](https://reactalicante.es/) (October 2-4)
+- 🇬🇧 [React Native London Conf](https://www.reactnativelondon.co.uk/2025) (November 13-14)
 </details>
 
 ### ✨ Highlights ✨
