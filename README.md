@@ -13,7 +13,7 @@ The text-based course materials are available for everyone: [intro docs](https:/
 ### 🛫 2026 conferences
 - 🇵🇱 [App.js](https://appjs.co/) (May 27-29) ✅
 - 🇳🇱 [React Summit](https://reactsummit.com/) (June 12) ✅
-- 🇺🇸 [Chain React](https://chainreactconf.com/) (July 30-31)
+- 🇺🇸 [Chain React](https://chainreactconf.com/) (July 30-31) ✅
 - 🇩🇪 [reactCon](https://www.nextappcon.com/reactcon) (Oct 7-8)
 
 <details>
