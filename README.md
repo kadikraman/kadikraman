@@ -14,7 +14,7 @@ The text-based course materials are available for everyone: [intro docs](https:/
 - 🇵🇱 [App.js](https://appjs.co/) (May 27-29) ✅
 - 🇳🇱 [React Summit](https://reactsummit.com/) (June 12) ✅
 - 🇺🇸 [Chain React](https://chainreactconf.com/) (July 30-31) ✅
-- 🇩🇪 [reactCon](https://www.nextappcon.com/reactcon) (Oct 7-8)
+- 🇩🇪 [reactCon](https://www.nextappcon.com/reactcon) (Oct 7-8) ✅
 
 <details>
   <summary>🛫 2025 conferences</summary>
