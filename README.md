@@ -1,3 +1,5 @@
+<a href="https://adventofclaude.com/"><img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/ddc414d1-c570-4c0c-8dbe-c87e6e299be3" /></a>
+
 ## Hi, I'm Kadi 👋
 
 Software Developer at [Expo](https://expo.dev/). I build things to help you build things with React Native! 💚
