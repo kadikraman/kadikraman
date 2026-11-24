@@ -1,4 +1,4 @@
-<a href="https://adventofclaude.com/"><img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/ddc414d1-c570-4c0c-8dbe-c87e6e299be3" /></a>
+<a href="https://adventofclaude.com/"><img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/356e38ad-0a5a-4f12-b093-267f36fbaf42" /></a>
 
 ## Hi, I'm Kadi 👋
 
